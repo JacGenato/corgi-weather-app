@@ -9,8 +9,8 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'Your App Name',
-        short_name: 'App',
+        name: 'Corgi Weather Forecast',
+        short_name: 'Corgi Weather',
         start_url: '/',
         display: 'standalone',  // ← this removes browser UI
         background_color: '#ffffff',
