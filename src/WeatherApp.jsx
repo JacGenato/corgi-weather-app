@@ -6,7 +6,7 @@ import rainyDay from "./assets/rainyDay.png";
 import snowDay from "./assets/snowyDay.png";
 import stormDay from "./assets/thunderstorm.png";
 import corgiSunny from "./assets/corgi-sunny.gif";
-import corgiSleepy from "./assets/corgi-sleepy.gif";
+import corgiSleepy from "./assets/sleepy.gif";
 import corgiRainy from "./assets/corgi-rainy.gif";
 import corgiWinter from "./assets/corgi-winter.gif";
 
